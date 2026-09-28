@@ -1,0 +1,7 @@
+sector,n,avg_eps_surprise,beat_rate,avg_reaction,avg_sentiment,avg_eqs,guidance_raise_rate
+Consumer,335,1.29,0.484,2.105,0.06,-0.013,0.287
+Energy,327,0.469,0.425,0.52,-0.01,-0.131,0.235
+Finance,313,0.591,0.447,0.868,0.018,-0.042,0.307
+Healthcare,325,0.17,0.391,0.05,-0.042,-0.095,0.277
+Industrials,340,0.213,0.388,0.169,-0.015,-0.114,0.262
+Technology,360,0.163,0.397,-0.061,-0.033,-0.128,0.272
